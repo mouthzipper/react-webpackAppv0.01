@@ -1,0 +1,15 @@
+{
+  "name": "kanban_app",
+  "version": "1.0.0",
+  "description": "Kanban App using webpack + react based on survivejs book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-libs-browser": "^0.5.3",
+    "webpack": "^1.12.2"
+  }
+}
